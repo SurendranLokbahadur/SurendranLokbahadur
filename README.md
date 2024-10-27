@@ -4,6 +4,10 @@
 -I bring strong communication, problem-solving, and organizational skills and I excelled at handling customer inquiries, managing complex data sets, and delivering efficient solutions in fast-paced environments.
 
 -Additionally, I thrive in collaborative, diverse environments to achieve the organization's goals.
+
+### Tools used 🛠️ 
+- HTML, CSS, PHP, R, PYTHON, SQL
+
 ![(LinkedIn-pic)-option](https://github.com/user-attachments/assets/61b7cc68-a9c7-4e4b-8209-79906cd3f9a2)
 <!--
 **SurendranLokbahadur/SurendranLokbahadur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
